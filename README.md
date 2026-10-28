@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ReverbNation is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://reverbnation.com/
+ReverbNation is a music platform that helps artists grow their careers by offering distribution, promotion tools, publishing, and opportunities to connect with industry professionals. Musicians can release music to major streaming services, access marketing resources, and explore revenue options through cash advances and sync licensing. The service provides a suite of tools for audience building, fan engagement, and career development, supporting both emerging and established artists worldwide.
+
+**Areas:** Music · Distribution · Promotion · Artists · Platform · Company
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.reverbnation.com/)
+- [Documentation](https://legacy.reverbnation.com/developers)
+- [Getting started](https://www.reverbnation.com/registration/new)
+- [API reference](https://legacy.reverbnation.com/developers)
+- [Pricing](https://www.reverbnation.com/pricing)
+- [Support](https://help.reverbnation.com)
+- [Blog](https://blog.reverbnation.com)
+- [Terms of service](https://www.reverbnation.com/terms)
+- [Privacy policy](https://www.reverbnation.com/privacy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/reverbnation/](https://apis.io/providers/reverbnation/).
